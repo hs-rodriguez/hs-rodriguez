@@ -1,7 +1,7 @@
 # Hi, I'm Hernán Rodríguez
 
 - 👨‍💻 Software Developer and Electronics Engineering student.
-- 📚 I'm Currently learning __C#__ and __React__.
+- 📚 I'm Currently learning __C#__ and __Rust__.
 
 
 ## Skills
@@ -12,6 +12,7 @@
 [![Javascript](https://img.shields.io/badge/Javascript-3d465c?style=for-the-badge&logo=javascript&labelColor=525E7A)]()
 [![CSS](https://img.shields.io/badge/CSS-3d465c?style=for-the-badge&logo=css3&labelColor=525E7A&logoColor=1572b6)]()
 [![HTML](https://img.shields.io/badge/HTML-3d465c?style=for-the-badge&logo=html5&labelColor=525E7A)]()
+[![React](https://img.shields.io/badge/React-3d465c?style=for-the-badge&logo=react&labelColor=525E7A)]()
 
 ## Find me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3d465c?style=for-the-badge&logo=linkedin&labelColor=525E7A)](https://www.linkedin.com/in/hs-rodriguez/?locale=en_US)
